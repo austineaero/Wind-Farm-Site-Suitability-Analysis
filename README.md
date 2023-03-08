@@ -46,6 +46,6 @@ There are four turbine clusters, 3 of which has met the criteria so far. To fina
 ![TargetSites_Intersect_Turbine_TransmissionLines](https://user-images.githubusercontent.com/66695888/223743592-2579b689-79da-43e0-a81b-9a607fe2b9ad.png)
 
 ## Final Result
-* Use the Select tool to identify "TargetSites_Intersect_Turbine_TransmissionLines" whose 2010 population is at least 20000 using the query expression "POP2010 >= 20000", with result output name SuitableSites
+* Use the Select tool to identify "TargetSites_Intersect_Turbine_TransmissionLines" whose 2010 population is at least 20000 using the query expression "POP2010 >= 20000", with result output name SuitableSites. This shows that the locations that meet the criteria are at the SouthEast of Denver and the NorthEast of Colorado.
 
 ![SuitableSites](https://user-images.githubusercontent.com/66695888/223744657-56ae330b-67b0-4157-a590-a3bc01f6cf47.png)
